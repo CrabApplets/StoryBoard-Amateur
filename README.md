@@ -27,3 +27,7 @@ Before running the program, make sure you have the following libraries installed
 ### Optional Library
 
 - **reportlab**: If you want to export storyboards to PDF, you'll need the `reportlab` library. This is used for generating high-quality PDF documents. If it’s not installed, PDF export functionality will be disabled, but other features will still work.
+
+- ### Usage
+
+Run the **"StoryBoard Amateur.py"** file to run the program. For tips functionality to work properly, please include the **"AllFilmTips.csv"** file in the same directory.
