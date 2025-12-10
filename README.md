@@ -35,3 +35,8 @@ Example: **pip install reportlab**
 ### Usage
 
 Run the **"StoryBoard Amateur.py"** file to run the program. For tips functionality to work properly, please include the **"AllFilmTips.csv"** file in the same directory.
+
+### Example Video
+
+[![Youtube Video](https://github.com/user-attachments/assets/abd63fb4-e1a7-4650-b131-ff45c36230a8)](https://youtu.be/nx799czcNuc)
+
